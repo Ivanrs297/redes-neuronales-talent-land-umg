@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+~$slides.pptx
+
 # C extensions
 *.so
 
