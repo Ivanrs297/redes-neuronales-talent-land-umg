@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+referencia/modelo_talent_land.h5
+taller/modelo_talent_land.h5
+
 ~$slides.pptx
 
 # C extensions
